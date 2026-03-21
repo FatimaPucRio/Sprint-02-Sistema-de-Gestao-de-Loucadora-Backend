@@ -42,7 +42,7 @@ docker build -t locadora-backend .
 
 Executar o container:
 
-docker run -p 5000:5000 locadora-backend
+docker run -p 5001:5000 locadora-backend
 
 Documentação Interativa (Swagger)
 
