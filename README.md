@@ -47,4 +47,4 @@ docker run -p 5000:5000 locadora-backend
 Documentação Interativa (Swagger)
 
 A documentação da arquitetura e dos contratos da API (OpenAPI 3) pode ser acessada em tempo de execução:
-URL: http://localhost:5000/#/
+URL: http://localhost:5001/#/
