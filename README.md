@@ -32,7 +32,7 @@ Integração com TMDB: O sistema realiza requisições HTTP para a API externa d
 
 Padronização: As respostas são entregues em formato JSON, facilitando o consumo pelo Front-end que roda de forma independente.
 
-Instalação e Execução (via Docker)
+Execução (via Docker)
 
 Para garantir que a arquitetura funcione conforme desenhada, utilize o Docker para subir o serviço:
 
@@ -43,6 +43,10 @@ docker build -t locadora-backend .
 Executar o container:
 
 docker run -p 5001:5000 locadora-backend
+
+Via Docker Compose
+
+docker-compose up --build
 
 Documentação Interativa (Swagger)
 
