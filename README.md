@@ -26,6 +26,8 @@ OpenAPI 3 / Swagger: Documentação interativa da API.
 
 Docker: Containerização para garantir a portabilidade do ambiente.
 
+------------------------------------------------------------------------------------------------------------------------
+
 Comportamento da Arquitetura
 
 A API foi desenhada para seguir os princípios REST, garantindo que:
@@ -33,6 +35,8 @@ A API foi desenhada para seguir os princípios REST, garantindo que:
 Integração com TMDB: O sistema realiza requisições HTTP para a API externa do TMDB para alimentar o catálogo de filmes, garantindo dados sempre atualizados sem necessidade de armazenamento local massivo.
 
 Padronização: As respostas são entregues em formato JSON, facilitando o consumo pelo Front-end que roda de forma independente.
+
+------------------------------------------------------------------------------------------------------------------------
 
 Execução (via Docker)
 
@@ -49,6 +53,8 @@ docker run -p 5001:5000 locadora-backend
 Via Docker Compose
 
 docker-compose up --build
+
+------------------------------------------------------------------------------------------------------------------------
 
 Documentação Interativa (Swagger)
 
