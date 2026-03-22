@@ -12,6 +12,8 @@ API Externa (TMDB): Realizando a ponte para busca de dados dinâmicos e metadado
 
 Persistência Local (SQLite): Garantindo o armazenamento seguro das regras de negócio e cadastros de clientes.
 
+------------------------------------------------------------------------------------------------------------------------
+
 Tecnologias Utilizadas
 
 Python 3.x & Flask: Micro-framework para a construção da API.
