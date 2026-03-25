@@ -44,7 +44,7 @@ Para garantir que a arquitetura funcione conforme desenhada, utilize o Docker pa
 
 Construir a imagem:
 
-docker build -t locadora-backend .
+$  docker build -t locadora-backend .
 
 Executar o container:
 
