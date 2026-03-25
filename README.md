@@ -3,7 +3,7 @@
 Este projeto de API REST foi desenvolvido como o MVP para a disciplina Desenvolvimento Full Stack Avançado da PUC-Rio.
 
 
-## Objetivo
+# Objetivo
 
 Apresentar o comportamento da arquitetura de uma API REST e demonstrar como o Back-end atua como o núcleo de processamento, comunicando-se simultaneamente com:
 
