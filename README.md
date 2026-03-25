@@ -1,6 +1,6 @@
 # 🎬 Sistema de Gestão de Filmes — API (Back-end)
 
-> Projeto de API REST desenvolvido como MVP para a disciplina **Desenvolvimento Full Stack Avançado** da PUC-Rio.
+Projeto de API REST desenvolvido como MVP para a disciplina **Desenvolvimento Full Stack Avançado** da PUC-Rio.
 
 ---
 
