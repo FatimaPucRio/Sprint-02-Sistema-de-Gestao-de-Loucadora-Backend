@@ -59,4 +59,4 @@ docker-compose up --build
 
 A documentação da arquitetura e dos contratos da API (OpenAPI 3) pode ser acessada em tempo de execução:
 
-[http://localhost:5001/#/](http://localhost:5001/#/)
+[http://localhost:5001/#/](http://localhost:5001/)
