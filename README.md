@@ -2,15 +2,17 @@
 
 Este projeto de API REST foi desenvolvido como o MVP para a disciplina Desenvolvimento Full Stack Avançado da PUC-Rio.
 
-Objetivo
+---
+
+## Objetivo
 
 Apresentar o comportamento da arquitetura de uma API REST e demonstrar como o Back-end atua como o núcleo de processamento, comunicando-se simultaneamente com:
 
-Interface (Front-end): Provendo os dados necessários para a experiência do usuário.
+- **Interface (Front-end):** Provendo os dados necessários para a experiência do usuário.
+- **API Externa (TMDB):** Realizando a ponte para busca de dados dinâmicos e metadados de filmes em tempo real através do The Movie Database (TMDB).
+- **Persistência Local (SQLite):** Garantindo o armazenamento seguro das regras de negócio e cadastros de clientes.
 
-API Externa (TMDB): Realizando a ponte para busca de dados dinâmicos e metadados de filmes em tempo real através do The Movie Database (TMDB).
-
-Persistência Local (SQLite): Garantindo o armazenamento seguro das regras de negócio e cadastros de clientes.
+---
 
 ------------------------------------------------------------------------------------------------------------------------
 
